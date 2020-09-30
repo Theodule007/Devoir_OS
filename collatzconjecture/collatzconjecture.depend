@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600793994 source:c:\users\simil gralda\documents\c pr\collatzconjecture\main.c
+	<stdio.h>
+	<stdlib.h>
+

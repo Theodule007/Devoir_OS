@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600796856 source:c:\users\simil gralda\documents\c pr\test\main.c
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+
