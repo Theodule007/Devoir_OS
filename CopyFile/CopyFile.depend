@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600717655 source:c:\users\michel\documents\devoir os\copyfile\entrenom.c
+	<stdio.h>
+	<stdlib.h>
+
+1600790021 source:c:\users\michel\documents\devoir os\copyfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

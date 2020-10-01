@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1601492538 source:c:\users\michel\documents\devoir os\scheduleprog\cpu.c
+	<stdio.h>
+	"task.h"
+
+1601410883 c:\users\michel\documents\devoir os\scheduleprog\task.h
+
+1601498037 source:c:\users\michel\documents\devoir os\scheduleprog\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"task.h"
+	"list.h"
+	"schedulers.h"
+
+1601490949 c:\users\michel\documents\devoir os\scheduleprog\list.h
+	"task.h"
+
+1601495145 c:\users\michel\documents\devoir os\scheduleprog\schedulers.h
+
+1529450886 source:c:\users\michel\documents\devoir os\scheduleprog\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+	"task.h"
+
+1600891625 source:c:\users\michel\documents\devoir os\scheduleprog\strsep.c
+	<stddef.h>
+	<string.h>
+	<stdio.h>
+
+1601502971 source:c:\users\michel\documents\devoir os\scheduleprog\schedule.c
+	<stdio.h>
+	<stdbool.h>
+	"task.h"
+
